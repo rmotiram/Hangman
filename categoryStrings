@@ -1,0 +1,14 @@
+public class categories()
+{
+	final String[] geo;
+	final String[] animals;
+	final String[] flowers; 
+	}
+	
+	public categories(String [] g, String [] a, String [] f) 
+	{ 
+		geo = g;
+		animals = a;
+		flowers = f; 
+		
+		
